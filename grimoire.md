@@ -23,3 +23,12 @@ straight from the man, [the linux source](https://github.com/torvalds/linux).
  - [windows needs to boot too](https://en.wikipedia.org/wiki/Windows_NT_startup_process), like any other.
  -  you can multitask on anything, [even an arduino](https://github.com/rahra/minios) if you try hard enough.
 
+### 2019-10-12
+- [general overview of process management, creation, tables, etc. ](http://www.informit.com/articles/article.aspx?p=370047)
+- [a more  in-depth discussion](https://www.oreilly.com/library/view/understanding-the-linux/0596002130/ch01s06.html)
+- also keep reading the [linux insides](https://0xax.gitbooks.io/linux-insides/)
+
+## midterm
+- dino (textbook), chapters 1, 2, 3 (in depth), 5 (in depth)
+ 
+
